@@ -3,7 +3,7 @@
 /**
  * _myhistory - displays the history list, one command by line, preceded
  *              with line numbers, starting at 0.
- * @info:  this struct containing potential arguments.for  constant function prototype.
+ * @info:  this struct containing potential arguments
  *  Return: 0 always
  */
 int _myhistory(info_t *info)
